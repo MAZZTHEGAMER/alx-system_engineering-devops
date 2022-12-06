@@ -1,4 +1,4 @@
-print hello  world
+0-hello_world
 echo a confued smile 
 show content of a file
 show contents of two files
