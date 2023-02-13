@@ -1,3 +1,2 @@
 #!/bin/bash
-#Write a script that counts the number of directories and sub-directories in the current directory.
-ls -l | grep "^d" | wc -l
+find -mindepth 1 -type d | wc -l
