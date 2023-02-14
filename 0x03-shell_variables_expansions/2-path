@@ -1,2 +1,2 @@
-#!/bin/bash
-DIRS=$(find . -tpe d)
+i#!/bin/bash
+export PATH=$PATH:/action
