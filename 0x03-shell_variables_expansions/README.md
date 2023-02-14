@@ -1,1 +1,1 @@
-variables epansions in shell
+this sh*t is lit
