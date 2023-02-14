@@ -1,1 +1,1 @@
-0-alias
+variables epansions in shell
